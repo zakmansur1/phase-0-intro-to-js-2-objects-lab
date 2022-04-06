@@ -1,1 +1,7 @@
-// Write your solution in this file!
+
+function employee(name, streetAddress) {
+    employee[name] = streetAddress; 
+  
+    return obj;
+  }
+
